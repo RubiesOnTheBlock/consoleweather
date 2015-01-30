@@ -16,5 +16,7 @@ Usage
 
     ruby weather.rb
 
+You might need an API key from: http://openweathermap.org/appid
+
 **Please fork and improve me ;)**
 
